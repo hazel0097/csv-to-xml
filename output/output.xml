@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+  <header>
+    <type>ORDER</type>
+    <no>00001</no>
+    <dateCreated>20180620151834</dateCreated>
+    <dateSend>20180620152001</dateSend>
+    <version>1&#13;
+</version>
+  </header>
+  <lines>
+    <line>
+      <lineno>1</lineno>
+      <itemCode>C0001</itemCode>
+      <itemDescription>Karışık Meyveli Kek</itemDescription>
+      <price>1,50</price>
+      <quantityPerPack>48</quantityPerPack>
+      <orderedQuantity>50</orderedQuantity>
+      <unitOfMeasure>BOX</unitOfMeasure>
+      <deliveryDateLatest>06Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line>
+      <lineno>2</lineno>
+      <itemCode>C0002</itemCode>
+      <itemDescription>Çikolatalı Karamelli Kek</itemDescription>
+      <price>2,00</price>
+      <quantityPerPack>48</quantityPerPack>
+      <orderedQuantity>100</orderedQuantity>
+      <unitOfMeasure>BOX</unitOfMeasure>
+      <deliveryDateLatest>06Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line>
+      <lineno>3</lineno>
+      <itemCode>C0003</itemCode>
+      <itemDescription>Muzlu Kek</itemDescription>
+      <price>,50</price>
+      <quantityPerPack>96</quantityPerPack>
+      <orderedQuantity>20</orderedQuantity>
+      <unitOfMeasure>BOX</unitOfMeasure>
+      <deliveryDateLatest>13Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line>
+      <lineno>4</lineno>
+      <itemCode>C0004</itemCode>
+      <itemDescription>Çilekli Kek</itemDescription>
+      <price>0,50</price>
+      <quantityPerPack>96</quantityPerPack>
+      <orderedQuantity>20</orderedQuantity>
+      <unitOfMeasure>BOX</unitOfMeasure>
+      <deliveryDateLatest>13Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line>
+      <lineno>5</lineno>
+      <itemCode>G0001</itemCode>
+      <itemDescription>Gofret</itemDescription>
+      <price>1,50</price>
+      <quantityPerPack>48</quantityPerPack>
+      <orderedQuantity>50</orderedQuantity>
+      <unitOfMeasure>Koli</unitOfMeasure>
+      <deliveryDateLatest>20Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line>
+      <lineno>6</lineno>
+      <itemCode>G0002</itemCode>
+      <itemDescription/>
+      <price>1,00</price>
+      <quantityPerPack>48</quantityPerPack>
+      <orderedQuantity>50</orderedQuantity>
+      <unitOfMeasure>Koli</unitOfMeasure>
+      <deliveryDateLatest>20Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line>
+      <lineno>7</lineno>
+      <itemCode>G0003</itemCode>
+      <itemDescription>Sütlü Çikolatalı Gofret</itemDescription>
+      <price>2</price>
+      <quantityPerPack>48</quantityPerPack>
+      <orderedQuantity>50</orderedQuantity>
+      <unitOfMeasure>Koli</unitOfMeasure>
+      <deliveryDateLatest>20Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line>
+      <lineno>8</lineno>
+      <itemCode>G0004</itemCode>
+      <itemDescription>Bitter Çikolatalı Gofret</itemDescription>
+      <price>2,50</price>
+      <quantityPerPack>48</quantityPerPack>
+      <orderedQuantity>50</orderedQuantity>
+      <unitOfMeasure>Kol</unitOfMeasure>
+      <deliveryDateLatest>20Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line/>
+    <line>
+      <lineno>10</lineno>
+      <itemCode>D0001</itemCode>
+      <itemDescription>Portakal Aromalı Meyve Suyu 1 Litre</itemDescription>
+      <price>1,50</price>
+      <quantityPerPack>48</quantityPerPack>
+      <orderedQuantity>50</orderedQuantity>
+      <unitOfMeasure>BOX</unitOfMeasure>
+      <deliveryDateLatest>27Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line>
+      <lineno>11</lineno>
+      <itemCode>D0002</itemCode>
+      <itemDescription>Şeftali Aromalı Meyve Suyu  1 Litre</itemDescription>
+      <price>1,50</price>
+      <quantityPerPack>48</quantityPerPack>
+      <orderedQuantity>50</orderedQuantity>
+      <unitOfMeasure>BOX</unitOfMeasure>
+      <deliveryDateLatest>27Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line>
+      <lineno>12</lineno>
+      <itemCode>D0003</itemCode>
+      <itemDescription>Limon Aromalı Meyve Suyu 1 Litre</itemDescription>
+      <price>1,50</price>
+      <quantityPerPack>48</quantityPerPack>
+      <orderedQuantity>50</orderedQuantity>
+      <unitOfMeasure>BOX</unitOfMeasure>
+      <deliveryDateLatest>27Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line>
+      <lineno>13</lineno>
+      <itemCode>D0004</itemCode>
+      <itemDescription>Vişne Aromalı Meyve Suyu 1 Litre</itemDescription>
+      <price>1,50</price>
+      <quantityPerPack>48</quantityPerPack>
+      <orderedQuantity>50</orderedQuantity>
+      <unitOfMeasure>BOX</unitOfMeasure>
+      <deliveryDateLatest>27Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line>
+      <lineno>14</lineno>
+      <itemCode>D0005</itemCode>
+      <itemDescription>Şeftali Aromalı Soğuk Çay 1 Litre</itemDescription>
+      <price>1,50</price>
+      <quantityPerPack>48</quantityPerPack>
+      <orderedQuantity>50</orderedQuantity>
+      <unitOfMeasure>BOX</unitOfMeasure>
+      <deliveryDateLatest>27Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line>
+      <lineno>15</lineno>
+      <itemCode>D0006</itemCode>
+      <itemDescription>Limon Aromalı Soğuk Çay 1 Litre</itemDescription>
+      <price>1,50</price>
+      <quantityPerPack>48</quantityPerPack>
+      <orderedQuantity>50</orderedQuantity>
+      <unitOfMeasure>BOX</unitOfMeasure>
+      <deliveryDateLatest>27Jul2018&#13;
+</deliveryDateLatest>
+    </line>
+    <line>
+      <lineno>16</lineno>
+      <itemCode>D0007</itemCode>
+      <itemDescription>Coca Cola 1,5 Litre</itemDescription>
+      <price>2,00</price>
+      <quantityPerPack>48</quantityPerPack>
+      <orderedQuantity>960</orderedQuantity>
+      <unitOfMeasure>Adet</unitOfMeasure>
+      <deliveryDateLatest>18Jul2018</deliveryDateLatest>
+    </line>
+  </lines>
+</order>
